@@ -1,5 +1,7 @@
 # HTTPS-PORTAL
 
+[![GuardRails badge](https://badges.production.guardrails.io/r0flc0pt4/https-portal.svg)](https://www.guardrails.io)
+
 HTTPS-PORTAL is a fully automated HTTPS server powered by
 [Nginx](http://nginx.org), [Let's Encrypt](https://letsencrypt.org) and
 [Docker](https://www.docker.com). By using it, you can run any existing web
